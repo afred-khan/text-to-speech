@@ -1,4 +1,5 @@
 from gtts import gTTS
+import os
 
 myText = input("Type what you want me to speak \n")
 
